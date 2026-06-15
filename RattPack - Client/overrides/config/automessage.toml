@@ -1,0 +1,6 @@
+intervals = [7]
+messages = ["§2Thank you very much for downloading MC Vanilla 2.0§f \n §aDid you know that this modpack can be played in multiplayer? Click here to purchase a server and play with your friends.§f \n§cDon't worry, this message will not appear again.§f"]
+links = ["https://www.bisecthosting.com/lupin?r=automessage"]
+soft_limits = [1]
+hard_limits = [1]
+enabled = true
